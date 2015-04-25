@@ -1,0 +1,1 @@
+A topcoder.com solutions fetcher written in Java, using the open-source libraries httpclient and htmlparser to overcome connecting, searching and fetching problems.
